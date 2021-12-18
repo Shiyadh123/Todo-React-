@@ -1,4 +1,4 @@
-import { React, Fragment, useRef } from "react";
+import { React, useRef } from "react";
 import styles from "./TodoInput.module.css";
 
 const TodoInput = (props) => {

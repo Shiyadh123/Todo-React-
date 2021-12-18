@@ -1,8 +1,7 @@
-import { React, Fragment } from "react";
+import { React } from "react";
 import styles from "./TodoItem.module.css";
 
 const TodoItem = (props) => {
-  //  const clr=props.todoItem.isDone?'green':'black';
   return (
     <div className={styles.body}>
       <div className="row">
